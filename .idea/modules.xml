@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Array/Array/Array.iml" filepath="$PROJECT_DIR$/Introduction/Array/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ClassAndObject/Class/Class.iml" filepath="$PROJECT_DIR$/Introduction/ClassAndObject/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Method/Method/Method.iml" filepath="$PROJECT_DIR$/Introduction/Method/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/advancedOperators/advancedOperators.iml" filepath="$PROJECT_DIR$/Introduction/Operator/advancedOperators/advancedOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/basicOperator/basicOperator.iml" filepath="$PROJECT_DIR$/Introduction/Operator/basicOperator/basicOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Variables/creatingVariables/creatingVariables.iml" filepath="$PROJECT_DIR$/Introduction/Variables/creatingVariables/creatingVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Variables/ex001/ex001.iml" filepath="$PROJECT_DIR$/Introduction/Variables/ex001/ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex001-tutor/ex001-tutor.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex001-tutor/ex001-tutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/ex002/ex002.iml" filepath="$PROJECT_DIR$/Introduction/Operator/ex002/ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex002/ex0021.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex002/ex0021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/ex003/ex003.iml" filepath="$PROJECT_DIR$/Introduction/Operator/ex003/ex003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex003/ex0031.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex003/ex0031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/ex004/ex004.iml" filepath="$PROJECT_DIR$/Introduction/Operator/ex004/ex004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex004-tutor/ex004-tutor.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex004-tutor/ex004-tutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Operator/ex005/ex005.iml" filepath="$PROJECT_DIR$/Introduction/Operator/ex005/ex005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex005/ex0051.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex005/ex0051.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ConditionalOperator/ex006/ex006.iml" filepath="$PROJECT_DIR$/Introduction/ConditionalOperator/ex006/ex006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasicTutor/Intoduction/ex006-tutor/ex006-tutor.iml" filepath="$PROJECT_DIR$/javaBasicTutor/Intoduction/ex006-tutor/ex006-tutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Array/ex007/ex007.iml" filepath="$PROJECT_DIR$/Introduction/Array/ex007/ex007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Cycles/ex008/ex008.iml" filepath="$PROJECT_DIR$/Introduction/Cycles/ex008/ex008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ClassAndObject/ex009/ex009.iml" filepath="$PROJECT_DIR$/Introduction/ClassAndObject/ex009/ex009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ClassAndObject/ex010/ex010.iml" filepath="$PROJECT_DIR$/Introduction/ClassAndObject/ex010/ex010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Method/ex011/ex011.iml" filepath="$PROJECT_DIR$/Introduction/Method/ex011/ex011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Method/ex012/ex012.iml" filepath="$PROJECT_DIR$/Introduction/Method/ex012/ex012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Cycles/forCycle/forCycle.iml" filepath="$PROJECT_DIR$/Introduction/Cycles/forCycle/forCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/Introduction/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ConditionalOperator/ifOperator/ifOperator.iml" filepath="$PROJECT_DIR$/Introduction/ConditionalOperator/ifOperator/ifOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDevelhope.iml" filepath="$PROJECT_DIR$/.idea/javaDevelhope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/ConditionalOperator/switchCaseOperator/switchCaseOperator.iml" filepath="$PROJECT_DIR$/Introduction/ConditionalOperator/switchCaseOperator/switchCaseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Variables/typeVariables/typeVariables.iml" filepath="$PROJECT_DIR$/Introduction/Variables/typeVariables/typeVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Cycles/whileCycle/whileCycle.iml" filepath="$PROJECT_DIR$/Introduction/Cycles/whileCycle/whileCycle.iml" />
+    </modules>
+  </component>
+</project>
