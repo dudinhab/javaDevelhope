@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62624ebf-e4e7-4a6b-a88d-e4d2b16fd2e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Casting/ex003/ex003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Casting/ex003/ex0031.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Casting/ex004-tutor/ex004-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Cicli avanzati/ex020-tutor/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../For/ex020/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../For/ex020/ex020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../For/ex020/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../For/ex021/ex021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../For/ex021/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funzioni/ex005/ex005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funzioni/ex005/ex0051.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funzioni/ex006-tutor/ex006-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I tipi primitivi/ex001-tutor/ex001-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I tipi primitivi/ex002/ex002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I tipi primitivi/ex002/ex0021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../If else/ex015/ex015.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../If else/ex016-tutor/ex016-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse/LezioneClasse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse2/LezioneClasse2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse2/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse3/LezioneClasse3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lezione/LezioneClasse3/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori aritmetici/007/007.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori aritmetici/ex008/ex008.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori aritmetici/ex009/ex009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori di assegnazione/ex010-tutor/ex010-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori di comparazione/ex011-tutor/ex011-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori di comparazione/ex012/ex012.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori logici/ex013/ex013.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operatori logici/ex014-tutor/ex014-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Switch case/ex017/ex017.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Switch case/ex018-tutor/ex018-tutor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../While/ex019/ex019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Introduction/Array/Array/src/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Introduction/Array/Array/src/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/007.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/ex001-tutor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex001-tutor/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/ex002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/ex0021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex002/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/ex003.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/ex0031.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex003/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/ex004-tutor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex004-tutor/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/ex005.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/ex0051.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex005/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/ex006-tutor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex006-tutor/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/ex008.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex008/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/ex009.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex009/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/ex010.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex010/src/Start.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2hV84CDXTYiuzy1lNLUSH1cs1hr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62624ebf-e4e7-4a6b-a88d-e4d2b16fd2e0" name="Changes" comment="" />
+      <created>1717667693690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717667693690</updated>
+    </task>
+    <servers />
+  </component>
+</project>

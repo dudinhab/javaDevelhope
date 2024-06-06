@@ -3,7 +3,7 @@ public class Start {
         System.out.println("The program is starting");
         System.out.println("------------------------------");
         int myNewInteger;
-        myNewInteger =5;
+        myNewInteger = 5;
 
         //Tipos de Array
         double myArrayDouble[] = new double[2];
@@ -25,22 +25,22 @@ public class Start {
         myNewIntegerArray[3] = 4;
         myNewIntegerArray[4] = 5;
 
-        System.out.println("I will print my first array "+ myNewIntegerArray[0]);
-        System.out.println("I will print my first array "+ myNewIntegerArray[1]);
-        System.out.println("I will print my first array "+ myNewIntegerArray[2]);
-        System.out.println("I will print my first array "+ myNewIntegerArray[3]);
-        System.out.println("I will print my first array "+ myNewIntegerArray[4]);
+        System.out.println("I will print my first array " + myNewIntegerArray[0]);
+        System.out.println("I will print my first array " + myNewIntegerArray[1]);
+        System.out.println("I will print my first array " + myNewIntegerArray[2]);
+        System.out.println("I will print my first array " + myNewIntegerArray[3]);
+        System.out.println("I will print my first array " + myNewIntegerArray[4]);
 
         //Tamanho de array
         System.out.println("My array size is " + myNewIntegerArray.length);
         //Visualizando elementos do array de acordo com o tamanho
         System.out.println("First element by array: " + myNewIntegerArray[0]);
-        System.out.println("Last element by array: " + myNewIntegerArray[myNewIntegerArray.length-1]);
+        System.out.println("Last element by array: " + myNewIntegerArray[myNewIntegerArray.length - 1]);
 
 
         //Segunda forma de inserir valor em um array, utilizando como String
         String myArraySmart[] = new String[]{
-            "Duda", "Lorenzo", "Francesco", "Federica"
+                "Duda", "Lorenzo", "Francesco", "Federica"
         };
 
         System.out.println("This is my Array Smart " + myArraySmart[0]);
