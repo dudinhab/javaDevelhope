@@ -19,7 +19,7 @@ public class Start {
         user.firstName = "Maria";
         user.lastName = "Barone";
         user.age = 25;
-        user.hobby = new String[]{"Eat"};
-        System.out.println(user.firstName + " " + user.lastName + " is "+ user.age +" years old and likes "+user.hobby[0]);
+        user.hobby.name = "Eat";
+        System.out.println(user.firstName + " " + user.lastName + " is "+ user.age +" years old and likes "+user.hobby.name);
     }
 }
