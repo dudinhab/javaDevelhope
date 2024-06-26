@@ -9,5 +9,6 @@ public class Start {
     public static void main(String[] args) {
         Auto auto = new Auto("381JD2","Honda","City",321);
         System.out.println(auto.getCilindrata());
+
     }
 }
