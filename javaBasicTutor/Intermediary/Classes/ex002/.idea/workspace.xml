@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bc80d2-17fe-4b40-bf08-9d814eeb8c04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Class/untitled/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Class/untitled/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Class/untitled/src/Start.java" afterDir="false" />
-    </list>
+    <list default="true" id="a3bc80d2-17fe-4b40-bf08-9d814eeb8c04" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samue/OneDrive/Documents/ProjetosGitDuda/javaDevelhope/javaBasicTutor/Intermediary/Classes/ex002&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Start.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samue/OneDrive/Documents/ProjetosGitDuda/javaDevelhope/javaBasicTutor/Intermediary/Classes/ex001"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ex002" />
