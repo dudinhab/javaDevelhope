@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Il Hash Set ha una grandezza di: " + hashSetFilm.size());
         System.out.println("Questi sono gli elementi del Hash:");
         for (String i : hashSetFilm) {
+            System.out.println(i);
         }
 
         /*
