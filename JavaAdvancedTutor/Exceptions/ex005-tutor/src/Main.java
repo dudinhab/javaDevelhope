@@ -11,32 +11,38 @@ import static java.lang.Double.parseDouble;
 
 public class Main {
     public static void main(String[] args) {
-        try {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Inserisci un numeratore:");
-            String num = scanner.nextLine();
+            String num = "b";
             System.out.println("Inserisci un denominatore:");
-            String den = scanner.nextLine();
-
+            String den = "a";
             System.out.println(div(num, den));
-
-        } catch (InputMismatchException e) {
-            System.out.println(e.getMessage());
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            e.printStackTrace();
-        }
-
     }
 
-    public static double div(String num, String den) {
+    public static String div(String num, String den) {
+        /*
         try {
             double numDouble = parseDouble(num);
             double denDouble = parseDouble(den);
             return numDouble / denDouble;
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            return 0;
+        } catch (NullPointerException e) {
+            System.out.println("Numeratore o denominatore non possono essere nulli.");
+        } catch(ArithmeticException e){
+            System.out.println("Impossibile il denominatore essere 0.");
+        }
+         */
+
+        try {
+            if (num == null || den == null) {
+                throw new NullPointerException("Numeratore o denominatore non possono essere nulli.");
+            } else if (parseDouble(den) == 0) {
+                throw new ArithmeticException("Impossibile il denominatore essere 0.");
+            }
+            return "La divisione tra " + num + " e " + den + " é uguale: " + parseDouble(num) / parseDouble(den);
+        } catch (NullPointerException | ArithmeticException e) {
+            return e.getMessage();
+        }catch (IllegalArgumentException e){
+            return "Il valore inserito non è valido!";
         }
     }
 }
