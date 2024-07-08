@@ -9,21 +9,24 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Student> students = new ArrayList<Student>();
+        ArrayList<Student> students = new ArrayList<>();
         students.add(new Student("Duda", 25));
+
+        System.out.println("Array iniziale:");
+        stampaArray(students);
+
         students.add(new Student("Samuel", 27));
-
-        for (Student i : students) {
-            System.out.println(i.infoStudent());
-        }
-
         students.add(new Student("Riccardo", 26));
+        students.add(new Student("Maria", 29));
+        students.add(new Student("Francesco", 23));
 
-        for (Student i : students) {
-            System.out.println(i.infoStudent());
-        }
-
+        System.out.println("Array poi aggiornata:");
+        stampaArray(students);
     }
 
-
+    public static void stampaArray(ArrayList<Student> s) {
+        for (Student i : s) {
+            System.out.println(i.infoStudent());
+        }
+    }
 }
