@@ -10,7 +10,7 @@ public class Main {
         OffsetDateTime adesso = OffsetDateTime.now();
         System.out.println("Adesso: " + adesso);
 
-        
+
         //Horario settado por string
         //OffsetDateTime ieri = OffsetDateTime.parse("2024-07-10T09:10:18+02:00");
         //Diminuindo um dia
@@ -43,9 +43,6 @@ public class Main {
         //Formato settado manualmente
         String dateStringManuale = ieri.format(DateTimeFormatter.ofPattern("dd-MMMM-yyyy", Locale.ITALY));
         System.out.println("dateStringManuale: " + dateStringManuale);
-
-
-
 
 
     }
