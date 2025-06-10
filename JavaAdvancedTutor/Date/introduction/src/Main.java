@@ -41,7 +41,7 @@ public class Main {
         System.out.println("dateString: " + dateString);
 
         //Formato settado manualmente
-        String dateStringManuale = ieri.format(DateTimeFormatter.ofPattern("dd-MMMM-yyyy", Locale.ITALY));
+        String dateStringManuale = ieri.format(DateTimeFormatter.ofPattern("dd-MMMM-yyyy hh:mm a", Locale.ITALY));
         System.out.println("dateStringManuale: " + dateStringManuale);
 
 

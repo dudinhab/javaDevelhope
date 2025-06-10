@@ -15,6 +15,22 @@ public class PersonBuilder {
         return this;
     }
 
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
     public PersonBuilder setAddress(String address) {
         this.address = address;
         return this;

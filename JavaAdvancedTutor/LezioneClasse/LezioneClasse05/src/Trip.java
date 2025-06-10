@@ -37,12 +37,12 @@ public class Trip implements TripDetails {
 
     @Override
     public String getTripSummary() {
-        return "";
+        return "{ Destination : "+ destination+" | Start Date: "+startDate+" | End Date: "+endDate+" | Price: "+price+" | Travel name: "+travelName;
     }
 
     @Override
     public BigDecimal calculateTotalPrice(int person) {
-        return null;
+        return price.multiply(BigDecimal.valueOf(person));
     }
 
     public static class TripBuilder{
@@ -62,8 +62,9 @@ public class Trip implements TripDetails {
             return this;
         }
 
-        public void setTravelName(String travelName) {
+        public TripBuilder setTravelName(String travelName) {
             this.travelName = travelName;
+            return this;
         }
 
         public Trip build(){

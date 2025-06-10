@@ -10,7 +10,10 @@ public class Person {
     }
 
     public Person(PersonBuilder person) {
-        person.build();
+        this.firstName = person.getFirstName();
+        this.lastName = person.getLastName();
+        this.address = person.getAddress();
+        this.age = person.getAge();
     }
 
     public String getFirstName() {
